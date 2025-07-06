@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ca09f1fc.css",
+    "main.js": "/portfolio/static/js/main.7a3ba56a.js",
+    "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
+    "static/media/2048.gif": "/portfolio/static/media/2048.c908da6a974f850efbb4.gif",
+    "static/media/campus.png": "/portfolio/static/media/campus.38102725ca8f2d9e0514.png",
+    "static/media/worker.png": "/portfolio/static/media/worker.8bca310c1bd72b6cd059.png",
+    "static/media/stocks.png": "/portfolio/static/media/stocks.9058c3f8893d0d0740bc.png",
+    "static/media/Shivam kumar_24AR10034.jpg": "/portfolio/static/media/Shivam kumar_24AR10034.73549a93bebb9b6b7227.jpg",
+    "static/media/ctrl.png": "/portfolio/static/media/ctrl.737b83baec47ae805842.png",
+    "static/media/chess.avif": "/portfolio/static/media/chess.0874844d71f09843e929.avif",
+    "static/media/LangtonsAntAnimated.gif": "/portfolio/static/media/LangtonsAntAnimated.0b90e0fd0c3bba2e13ef.gif",
+    "static/media/realestate.jpg": "/portfolio/static/media/realestate.9824c19a463f7aef5129.jpg",
+    "static/media/music.avif": "/portfolio/static/media/music.773d6909627742a6d352.avif",
+    "static/media/promo.avif": "/portfolio/static/media/promo.e8270bfaa6928fcc0821.avif",
+    "static/media/sf.jpeg": "/portfolio/static/media/sf.04cc3df7e270dd82db04.jpeg",
+    "static/media/budget.avif": "/portfolio/static/media/budget.3128ba2fa4697aa71442.avif",
+    "static/media/portfolio.avif": "/portfolio/static/media/portfolio.668ad69eedd10144da29.avif",
+    "index.html": "/portfolio/index.html",
+    "main.ca09f1fc.css.map": "/portfolio/static/css/main.ca09f1fc.css.map",
+    "main.7a3ba56a.js.map": "/portfolio/static/js/main.7a3ba56a.js.map",
+    "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca09f1fc.css",
+    "static/js/main.7a3ba56a.js"
+  ]
+}
