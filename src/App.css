@@ -309,3 +309,22 @@ body {
     gap: 2rem;
   }
 }
+
+@media (max-width: 1024px) {
+  .glitch-text {
+    font-size: 3rem !important; /* text-5xl */
+    line-height: 1.1 !important;
+    word-break: break-word;
+    display: block;
+    width: 100%;
+  }
+}
+@media (max-width: 640px) {
+  .glitch-text {
+    font-size: 2.25rem !important; /* text-4xl */
+    line-height: 2.5rem !important;
+    word-break: break-word;
+    display: block;
+    width: 100%;
+  }
+}
