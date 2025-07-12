@@ -111,7 +111,7 @@ const Hero: React.FC = () => {
             transition={{ delay: 1.5, duration: 0.8 }}
           >
             <motion.a
-              href={process.env.PUBLIC_URL + '/assets/shivam_resume.pdf'}
+              href={process.env.PUBLIC_URL + '/assets/shivamresume.pdf'}
               download
               className="px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-full font-semibold hover-glow flex items-center space-x-2"
               whileHover={{ scale: 1.05 }}
